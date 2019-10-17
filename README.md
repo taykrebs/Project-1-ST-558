@@ -1,1 +1,7 @@
-# Project-1-ST-558
+<<<<<<< HEAD
+# Project-1-Part-1
+=======
+# Project-1-Part-1
+
+#This is a line from RStudio
+>>>>>>> Initial commit
